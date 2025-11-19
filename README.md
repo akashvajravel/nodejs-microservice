@@ -19,6 +19,7 @@ The service uses the following main dependencies:
 
 
 Setup Instructions:
+
 1️⃣ Clone the Repository:
 
 git clone https://github.com/<your-username>/nodejs-microservice.git
@@ -87,5 +88,6 @@ Example:
   "dbStatus": "Connected",
   "uptime": "30s"
 }
+
 
 
